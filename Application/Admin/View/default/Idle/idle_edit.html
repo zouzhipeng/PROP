@@ -1,0 +1,90 @@
+<div id="edit_table">
+    <div class="form-group">
+        <label>图片</label>
+        <volist name="info.idle_img_list" id="item">
+        <br /><a href="{$item}" class="tags" target="_blank">{$item}</a>
+        </volist>
+    </div>
+    <div class="form-group">
+        <label>商品名</label>
+        <input class="form-control" name="idle_name" value="{$info.idle_name}">
+    </div>
+    <div class="form-group">
+        <label>项目</label>
+        <label class="radio-inline">
+        	<input type="radio" name="idle_type" value="0" <if condition="$info.idle_type eq 0 ">checked="checked"</if>>发布
+        </label>
+        <label class="radio-inline">
+        	<input type="radio" name="idle_type" value="1" <if condition="$info.idle_type eq 1 ">checked="checked"</if>>想买
+        </label>
+    </div>
+    <div class="form-group">
+        <label>原价</label>
+        <input class="form-control" name="idle_original_price" value="{$info.idle_original_price}">
+    </div>
+    <div class="form-group">
+        <label>现价</label>
+        <input class="form-control" name="idle_present_price" value="{$info.idle_present_price}">
+    </div>
+    <div class="form-group">
+        <label>状态</label>
+        <label class="radio-inline">
+        	<input type="radio" name="idle_state" value="0" <if condition="$info.idle_state eq 0 ">checked="checked"</if>>未审核
+        </label>
+        <label class="radio-inline">
+        	<input type="radio" name="idle_state" value="1" <if condition="$info.idle_state eq 1 ">checked="checked"</if>>已审核
+        </label>
+        <label class="radio-inline">
+        	<input type="radio" name="idle_state" value="2" <if condition="$info.idle_state eq 2 ">checked="checked"</if>>已完成
+        </label>
+        <label class="radio-inline">
+        	<input type="radio" name="idle_state" value="3" <if condition="$info.idle_state eq 3 ">checked="checked"</if>>已取消
+        </label>
+    </div>
+    <div class="form-group">
+        <label>描述</label>
+        <textarea class="form-control" name="idle_description" rows="3">{$info.idle_description}</textarea>
+    </div>
+    <input type="hidden" name="idle_id" value="{$info.idle_id}">
+<button type="submit" name="save" class="btn btn-default">保存</button>
+<button type="button" name="close" class="btn btn-sm btn-link pull-right">关闭</button>
+
+<script>
+$('#edit_table a.tags').mouseenter(function(e) {
+	layer.tips('<img border="0" src="'+$(this).attr("href")+'?imageView2/0/w/200" width="100%">',this,{tips:4,area: '200px'}); 
+});
+
+$("#edit_table button[name='close']").click(function(e) {
+    layer.closeAll('page');
+});
+$("#edit_table button[name='save']").click(function(e) {
+	layer.load(1, {shade: [0.4,'#000']});
+	var idle_id = $("#edit_table input[name='idle_id']").val();
+	var idle_name = $("#edit_table input[name='idle_name']").val();
+	var idle_type = $('#edit_table :radio[name="idle_type"]:checked').val();
+	var idle_original_price = $("#edit_table input[name='idle_original_price']").val();
+	var idle_present_price = $("#edit_table input[name='idle_present_price']").val();
+	var idle_state = $('#edit_table :radio[name="idle_state"]:checked').val();
+	var idle_description = $("#edit_table textarea[name='idle_description']").val();
+	$.post("/Admin/Idle/idle_edit/",{
+		"idle_id": idle_id,
+		"idle_name": idle_name,
+		"idle_type": idle_type,
+		"idle_original_price": idle_original_price,
+		"idle_present_price": idle_present_price,
+		"idle_state": idle_state,
+		"idle_description": idle_description,
+	},function(data){
+		layer.closeAll('loading');
+		if(data.err){
+			layer.msg(data.msg, {icon: 0});
+		}
+		else{
+			layer.closeAll('page');
+			layer.msg(data.msg);
+			flash_page();
+		}
+	},"json");
+});
+</script>
+</div>

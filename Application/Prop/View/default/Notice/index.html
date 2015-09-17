@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>{$project}</title>
+    <link rel="stylesheet" href="__PUBLIC__/Prop/pintuer.css"/>
+    <link rel="stylesheet" href="__PUBLIC__/Prop/wuye.css"/>
+</head>
+<body>
+<header class="clearfix padding bg border-bottom">
+    <div class="x4">
+        <a href="{:U('Index/index')}"><span class="icon-angle-left text-large text-diy"></span></a>
+    </div>
+    <h4 class="x4 text-center height">
+        通知
+    </h4>
+</header>
+<section class="margin-small-top">
+    <div class="border-top">
+		<volist name="notice_list" id="item">
+        <div class="clearfix padding bg-white border-bottom">
+            <a href="{:U('Prop/Notice/info',array('notice_id'=>$item['notice_id']))}" class="x12">
+                <h5>{$item.notice_title}</h5>
+                <div class="text-small text-gray margin-small-top">{$item.add_time|date="Y-m-d h:s",###}</div>
+                <if condition="$item.is_top eq 1">
+                <div class="text-white ding">
+                    <span>顶</span>
+                </div>
+                </if>
+            </a>
+        </div>
+		</volist>
+    </div>
+</section>
+</body>
+</html>

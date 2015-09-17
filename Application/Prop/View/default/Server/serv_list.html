@@ -1,0 +1,23 @@
+			<volist name="serv_list" id="item">
+            <div class="padding border-bottom clearfix pay_list">
+                <div class="x9 clearfix">
+                    <div class="float-left">
+                        {$item.server_id}
+                    </div>
+                    <div class="text-left" style="margin-left:18px;">
+                        <div>{$item.server_title}
+                        <if condition="$item.server_state eq 0">
+                            (未审核)
+                        <elseif condition="$item.server_state eq 1"/>
+                        	(已联系)
+                        <elseif condition="$item.server_state eq 2"/>
+                        	(已分派)
+                        <elseif condition="$item.server_state eq 3"/>
+                        	(已完成)
+                        </if>
+                        </div>
+                    </div>
+                </div>
+                <div class="x3 text-right float-right">{$item.add_time}</div>
+            </div>            
+            </volist>

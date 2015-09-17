@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>{$info.notice_title}</title>
+    <link rel="stylesheet" href="__PUBLIC__/Prop/pintuer.css"/>
+    <script src="__PUBLIC__/Prop/js/jquery.min.js"></script>
+</head>
+<body class="bg">
+<header class="clearfix padding text-gray border-bottom">
+    <div class="x4">
+        <a href="javascript:history.go(-1);" class="text-large text-diy icon-angle-left"></a>
+    </div>
+    <h4 class="x4 text-center height">
+        详情
+    </h4>
+</header>
+<article class="padding">
+    <div class="border-bottom">
+        <h4>{$info.notice_title}</h4>
+        <div class="text-gray margin-top margin-little-bottom">{$info.add_time}</div>
+    </div>
+    <div class="margin-top">
+		{$info.notice_content}
+    </div>
+</article>
+<script>
+$(function(){
+	$("article img").attr("width","100%");
+});
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<title>{$webname}</title>
+<script src="__PUBLIC__/js/jquery.js"></script>
+</head>
+<body>
+<script type="text/javascript">  
+    $.getJSON("{$Think.config.GET_TOKEN}",  
+    function(result) {  
+        //document.write(result.token+"<BR>");
+        //document.write('__MODULE__/Login/Apilogin?token='+result.token+'&backurl={$backurl}');return;
+        if (result.status==1) {
+			location.href='__MODULE__/Login/Apilogin?token='+result.token+'&backurl={$backurl}';        	
+		}else{		
+			location.href="{$login_url}";
+		}
+    });
+</script>
+</body>
+</html>
+

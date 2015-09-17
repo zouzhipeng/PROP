@@ -1,0 +1,55 @@
+                            <table class="table table-bordered table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th width="60">id</th>
+                                        <th>标题</th>
+                                        <th>账单地址</th>
+                                        <th>账单金额</th>
+                                        <th width="100" class="Dropdown" field="status" value="{$status}">
+                                            <a href="###"><span>
+                                            <if condition="$status eq 0">
+                                            未付款
+                                            <elseif condition="$status eq 1"/>
+                                            已付款
+                                            <else />
+                                            状态
+                                            </if>
+                                            </span><i class="fa fa-fw fa-caret-down"></i>
+                                            <ul>
+                                                <li value="">全部</li>
+                                                <li value="0">未付款</li>
+                                                <li value="1">已付款</li>
+                                            </ul>
+                                            </a>
+                                        </th>
+                                        <th width="120">支付时间</th>
+                                        <th width="120">添加时间</th>
+                                        <th width="160">操作</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                <volist name="list" id="item">
+                                    <tr>
+                                        <td align="center">{$item.bill_id}</td>
+                                        <td>{$item.bill_title}</td>
+                                        <td>{$item.bill_address}</td>
+                                        <td>{$item.bill_price}</td>
+                                        <td>
+                                        <if condition="$item.status eq 1">
+                                            <i class="fa fa-check fa-lg text-success"></i>已付
+                                        <else />
+                                            <i class="fa fa-times fa-lg text-danger"></i>未付
+                                        </if>
+                                        </td>
+                                        <td>{$item.pay_time}</td>
+                                        <td>{$item.add_time}</td>
+                                        <td>
+                                        <if condition="$item.status eq 0">
+                                        <a class="btn btn-sm btn-primary bill_edit" href="###" bill_id="{$item.bill_id}"><i class="fa fa-edit fa-lg"></i> 编辑</a> 
+                                        <a class="btn btn-sm btn-danger bill_del" href="###" bill_id="{$item.bill_id}"><i class="fa fa-trash-o fa-lg"></i> 删除</a>
+                                        </if>
+                                        </td>
+                                    </tr>
+                                </volist>
+                                </tbody>
+                            </table>

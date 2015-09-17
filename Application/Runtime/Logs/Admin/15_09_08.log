@@ -1,0 +1,2765 @@
+[ 2015-09-08T10:11:10+08:00 ] 192.168.2.124 /Admin/MenuTree?callback=jQuery21405863527292385697_1441675853586&_=1441675853587
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T10:11:11+08:00 ] 192.168.2.124 /Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+
+[ 2015-09-08T10:11:12+08:00 ] 192.168.2.124 /Admin/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\BillController.class.php 第 8 行.
+
+[ 2015-09-08T10:11:13+08:00 ] 192.168.2.124 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Bill
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T10:11:15+08:00 ] 192.168.2.124 /Admin/Server/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ServerController.class.php 第 8 行.
+
+[ 2015-09-08T10:11:18+08:00 ] 192.168.2.124 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Server
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T10:11:34+08:00 ] 192.168.2.124 /Admin/Login/index?token=4176BlNSU1UHBQhUBwsOXQAPXVIHAANWBwYMD1BXB1wOAlMPWlZbUw&backurl=http://prop.zzp.cn/Admin/Server
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T10:11:36+08:00 ] 192.168.2.124 /Admin/Server
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ServerController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0400s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=11 )  [ RunTime:0.0000s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '11'  [ RunTime:0.0200s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: project_list C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\fd4d487b7df6b0c92b1d4674d227eb0d.php 第 51 行.
+NOTIC: [8] Undefined variable: project_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\fd4d487b7df6b0c92b1d4674d227eb0d.php 第 80 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T10:11:39+08:00 ] 192.168.2.124 /Admin/Server/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ServerController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_server` [ RunTime:0.0800s ]
+SQL: SELECT s.*,c.server_class_name FROM prop_server s LEFT JOIN prop_server_class c ON s.server_class = c.server_class  WHERE s.project_id IN ('') ORDER BY server_id desc LIMIT 0,15   [ RunTime:0.0200s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_server s WHERE s.project_id IN ('') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: status C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\7c0edf11a6a847be784f29c9c04561c7.php 第 7 行.
+NOTIC: [8] Undefined variable: status C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\7c0edf11a6a847be784f29c9c04561c7.php 第 8 行.
+NOTIC: [8] Undefined variable: status C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\7c0edf11a6a847be784f29c9c04561c7.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2015-09-08T10:59:31+08:00 ] 192.168.2.124 /Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+
+[ 2015-09-08T11:09:03+08:00 ] 192.168.2.124 /Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+
+[ 2015-09-08T11:09:04+08:00 ] 192.168.2.124 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T14:26:14+08:00 ] 127.0.0.1 /Admin/Idle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0040s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0730s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:26:17+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 33 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 33 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:26:19+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:26:22+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:26:28+08:00 ] 127.0.0.1 /Admin/Idle/idle_verify/?project_id=36&idle_id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: UPDATE `prop_idle` SET `idle_state`='1' WHERE `project_id` = 36 AND `idle_id` = 8 AND `idle_state` = 0 [ RunTime:0.0270s ]
+
+[ 2015-09-08T14:47:46+08:00 ] 127.0.0.1 /Admin/Idle/idle_edit/?idle_id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_idle` WHERE ( idle_id=8 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:50:06+08:00 ] 127.0.0.1 /Admin/Idle/idle_edit/?idle_id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_idle` WHERE ( idle_id=8 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:50:31+08:00 ] 127.0.0.1 /Admin/Idle/idle_edit/?idle_id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_idle` WHERE ( idle_id=8 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:50:42+08:00 ] 127.0.0.1 /Admin/Idle/idle_edit/?idle_id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_idle` WHERE ( idle_id=8 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-08T14:51:55+08:00 ] 127.0.0.1 /Admin/Idle/idle_edit/?idle_id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_idle` WHERE ( idle_id=8 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:53:16+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:53:18+08:00 ] 127.0.0.1 /Admin/Idle/idle_edit/?idle_id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_idle` WHERE ( idle_id=8 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:53:19+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T14:53:21+08:00 ] 127.0.0.1 /Admin/Idle/idle_edit/?idle_id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_idle` WHERE ( idle_id=8 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:08:40+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+
+[ 2015-09-08T15:08:41+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:08:43+08:00 ] 127.0.0.1 /Admin/Login/index?token=03d5BgMCCQVTVQgGBVRcUgVSWlcEDlENClQKBFIGUlRWVw4HBAUBBg&backurl=http://prop.zzp.cn/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-08T15:08:45+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0010s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:08:48+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0490s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0240s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:27:47+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-08T15:27:50+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:28:35+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T15:28:37+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:28:47+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') AND `notice_state` = 1 ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') AND `notice_state` = 1 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:28:53+08:00 ] 127.0.0.1 /Admin/Notice/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:28:55+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id = 36 ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:28:58+08:00 ] 127.0.0.1 /Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:29:01+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:47:27+08:00 ] 127.0.0.1 /Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+
+[ 2015-09-08T15:47:28+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:47:31+08:00 ] 127.0.0.1 /Admin/Login/index?token=03d5BgMCCQVTVQgGBVRcUgVSWlcEDlENClQKBFIGUlRWVw4HBAUBBg&backurl=http://prop.zzp.cn/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:47:33+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0040s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:47:35+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:48:13+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:48:16+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: idle_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 34 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: idle_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 34 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: idle_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:49:02+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:49:05+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: idle_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 34 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: idle_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 34 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: idle_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:58:46+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:59:03+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:59:06+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-09-08T15:59:12+08:00 ] 127.0.0.1 /Admin/Notice/notice_verify/?notice_id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT `project_id` FROM `prop_notice` WHERE `notice_id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 33 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `prop_notice` SET `notice_state`='1' WHERE `project_id` = 33 AND `notice_id` = 4 AND `notice_state` = 0 [ RunTime:0.0010s ]
+
+[ 2015-09-08T15:59:17+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T15:59:20+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:00:32+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T16:00:35+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:01:27+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0010s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:01:29+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 31 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 31 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 31 行.
+NOTIC: [8] Undefined index: notice_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\0ef16c91f1156154bd0e1709999da27e.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:01:53+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:01:55+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:02:14+08:00 ] 127.0.0.1 /Admin/Notice/notice_verify/?notice_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_notice` WHERE `notice_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `prop_notice` SET `notice_state`='1' WHERE `project_id` = 36 AND `notice_id` = 5 AND `notice_state` = 0 [ RunTime:0.0010s ]
+
+[ 2015-09-08T16:02:20+08:00 ] 127.0.0.1 /Admin/Notice/notice_edit/?notice_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_notice` WHERE ( notice_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T16:03:17+08:00 ] 127.0.0.1 /Admin/Notice/notice_edit/?notice_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_notice` WHERE ( notice_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T16:06:15+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:06:18+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T16:06:21+08:00 ] 127.0.0.1 /Admin/Notice/notice_edit/?notice_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_notice` WHERE ( notice_id=5 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T16:06:37+08:00 ] 127.0.0.1 /Admin/Notice/notice_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: UPDATE `prop_notice` SET `notice_title`='fdg fdgd',`notice_author`='gd gdf ',`notice_state`='0',`project_id`='36',`is_top`='0',`notice_content`='fdsgee yg4e&amp;nbsp;',`add_time`='1441670797' WHERE `notice_id` = 5 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:06:40+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:07:11+08:00 ] 127.0.0.1 /Admin/Notice/notice_edit/?notice_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_notice` WHERE ( notice_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:07:14+08:00 ] 127.0.0.1 /Admin/Notice/notice_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: UPDATE `prop_notice` SET `notice_title`='fdg fdgd',`notice_author`='gd gdf ',`notice_state`='0',`project_id`='36',`is_top`='0',`notice_content`='fdsgee yg4e&amp;nbsp;',`add_time`='1441670834' WHERE `notice_id` = 5 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:07:16+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0050s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T16:07:21+08:00 ] 127.0.0.1 /Admin/Notice/notice_edit/?notice_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_notice` WHERE ( notice_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:07:43+08:00 ] 127.0.0.1 /Admin/Notice/notice_verify/?notice_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_notice` WHERE `notice_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `prop_notice` SET `notice_state`='1' WHERE `project_id` = 36 AND `notice_id` = 5 AND `notice_state` = 0 [ RunTime:0.0010s ]
+
+[ 2015-09-08T16:07:43+08:00 ] 127.0.0.1 /Admin/Notice/notice_edit/?notice_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_notice` WHERE ( notice_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:07:46+08:00 ] 127.0.0.1 /Admin/Notice/notice_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: UPDATE `prop_notice` SET `notice_title`='fdg fdgd',`notice_author`='gd gdf ',`notice_state`='0',`project_id`='36',`is_top`='0',`notice_content`='fdsgee yg4e&amp;nbsp;',`add_time`='1441670866' WHERE `notice_id` = 5 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:07:49+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:07:56+08:00 ] 127.0.0.1 /Admin/Notice/notice_edit/?notice_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_notice` WHERE ( notice_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-09-08T16:10:00+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:10:03+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:10:06+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:10:14+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: INSERT INTO `prop_notice` (`notice_title`,`notice_author`,`project_id`,`is_top`,`notice_content`,`add_time`) VALUES ('发多少公分的说','324321412','33','0','烦得很的','1441671014') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:10:16+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:10:23+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:10:31+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: INSERT INTO `prop_notice` (`notice_title`,`notice_author`,`project_id`,`is_top`,`notice_content`,`add_time`) VALUES ('固定固定','范德萨鬼父 人423','33','0','额无法辐射','1441671031') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:10:33+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0030s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:11:12+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:11:21+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: INSERT INTO `prop_notice` (`notice_title`,`notice_author`,`notice_state`,`project_id`,`is_top`,`notice_content`,`add_time`) VALUES ('发是电风扇的','213214 范德萨','1','33','0','发送到发大厦','1441671081') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:11:23+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:11:27+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:11:33+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+
+[ 2015-09-08T16:11:34+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:11:50+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+
+[ 2015-09-08T16:11:51+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:12:01+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+
+[ 2015-09-08T16:12:02+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-08T16:12:03+08:00 ] 127.0.0.1 /Admin/Login/index?token=03d5BgMCCQVTVQgGBVRcUgVSWlcEDlENClQKBFIGUlRWVw4HBAUBBg&backurl=http://prop.zzp.cn/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-09-08T16:12:06+08:00 ] 127.0.0.1 /Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: notice_id C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\922ca344bd03ed3a7ef36b99d63a0c69.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:12:08+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-09-08T16:12:11+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:12:17+08:00 ] 127.0.0.1 /Admin/Notice/notice_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0010s ]
+SQL: INSERT INTO `prop_notice` (`notice_title`,`notice_author`,`notice_state`,`project_id`,`is_top`,`notice_content`,`add_time`) VALUES ('范德萨范德萨','2 32大厦 ','0','33','0','3214 124 1&lt;br /&gt;','1441671137') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T16:12:20+08:00 ] 127.0.0.1 /Admin/Notice/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0020s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`notice_state`,`is_top`,p.project FROM prop_notice n LEFT JOIN prop_project p ON n.project_id = p.h_id  WHERE n.project_id IN ('33','35','36') ORDER BY is_top desc,notice_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM prop_notice n WHERE n.project_id IN ('33','35','36') LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:07:39+08:00 ] 192.168.2.124 /Admin/MenuTree/index/token/8860AwhUBAdVB1UIBlMBDgUMXABTVFEBBwZbUVlQU11TCVEKAVAMAQ?callback=jQuery21409642770849168301_1441703256384&_=1441703256385
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:07:40+08:00 ] 192.168.2.124 /Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\NoticeController.class.php 第 8 行.
+
+[ 2015-09-08T17:07:41+08:00 ] 192.168.2.124 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:54:34+08:00 ] 127.0.0.1 /Admin/Idle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+
+[ 2015-09-08T17:54:35+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Idle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:54:36+08:00 ] 127.0.0.1 /Admin/Login/index?token=03d5BgMCCQVTVQgGBVRcUgVSWlcEDlENClQKBFIGUlRWVw4HBAUBBg&backurl=http://prop.zzp.cn/Admin/Idle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:54:38+08:00 ] 127.0.0.1 /Admin/Idle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:54:41+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 33 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 33 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-08T17:54:47+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:54:50+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:54:55+08:00 ] 127.0.0.1 /Admin/Idle/idle_verify/?project_id=36&idle_id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: UPDATE `prop_idle` SET `idle_state`='1' WHERE `project_id` = 36 AND `idle_id` = 7 AND `idle_state` = 0 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_idle` WHERE `project_id` = 36 AND `idle_id` = 7 AND `idle_state` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: data C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 104 行.
+NOTIC: [2] Missing argument 3 for Mxmember::send_sms(), called in C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php on line 104 and defined C:\Program Files\phpStudy\WWW_prop\Application\Common\Common\Mxmember.class.php 第 108 行.
+NOTIC: [8] Undefined variable: sign C:\Program Files\phpStudy\WWW_prop\Application\Common\Common\Mxmember.class.php 第 115 行.
+
+[ 2015-09-08T17:56:13+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0010s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:56:17+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:56:22+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:56:25+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:56:28+08:00 ] 127.0.0.1 /Admin/Idle/idle_verify/?project_id=36&idle_id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: UPDATE `prop_idle` SET `idle_state`='1' WHERE `project_id` = 36 AND `idle_id` = 7 AND `idle_state` = 0 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_idle` WHERE `project_id` = 36 AND `idle_id` = 7 AND `idle_state` = 0 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: data C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 104 行.
+
+[ 2015-09-08T17:59:16+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:59:19+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:59:24+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:59:28+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T17:59:31+08:00 ] 127.0.0.1 /Admin/Idle/idle_verify/?project_id=36&idle_id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_idle` WHERE `project_id` = 36 AND `idle_id` = 7 AND `idle_state` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-09-08T18:00:04+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-08T18:00:07+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T18:00:17+08:00 ] 127.0.0.1 /Admin/Idle/idle_verify/?project_id=36&idle_id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_idle` WHERE `project_id` = 36 AND `idle_id` = 7 AND `idle_state` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-09-08T18:00:58+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-08T18:01:01+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-09-08T18:01:19+08:00 ] 127.0.0.1 /Admin/Idle/idle_verify/?project_id=36&idle_id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_idle` WHERE `project_id` = 36 AND `idle_id` = 7 AND `idle_state` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-09-08T18:03:45+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T18:03:48+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T18:03:51+08:00 ] 127.0.0.1 /Admin/Idle/idle_verify/?project_id=36&idle_id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_idle` WHERE `project_id` = 36 AND `idle_id` = 7 AND `idle_state` = 0 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-09-08T18:04:31+08:00 ] 127.0.0.1 /Admin/Idle/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-08T18:04:34+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0020s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 36 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

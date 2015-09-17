@@ -1,0 +1,46 @@
+                            <table class="table table-bordered table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th width="60">id</th>
+                                        <th>标题</th>
+                                        <th width="160">楼盘名</th>
+                                        <th width="120" class="Dropdown" field="notice_state" value="{$notice_state}">
+                                            <a href="###"><span>
+                                            <if condition="$notice_state eq 0">
+                                            草稿箱
+                                            <elseif condition="$notice_state eq 1"/>
+                                            已发布
+                                            <else />
+                                            状态
+                                            </if>
+                                            </span><i class="fa fa-fw fa-caret-down"></i>
+                                            <ul>
+                                                <li value="">全部</li>
+                                                <li value="0">草稿箱</li>
+                                                <li value="1">已发布</li>
+                                            </ul>
+                                            </a>
+                                        </th>
+                                        <th width="120">添加时间</th>
+                                        <th width="160">操作</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                <volist name="list" id="item">
+                                    <tr>
+                                        <td align="center">{$item.notice_id}</td>
+                                        <td>{$item.notice_title} <if condition="$item.is_top eq 1"><i class="fa fa-arrow-up fa-lg text-success"></i></if></td>
+                                        <td>{$item.project}</td>
+                                        <td>
+                                        <if condition="$item.notice_state eq 1">
+                                            <i class="fa fa-check fa-lg text-success"></i>已发布
+                                        <else />
+                                            <i class="fa fa-file-text-o fa-lg text-danger"></i>草稿 <button type="button" class="btn btn-xs btn-warning notice_verify" notice_id="{$item.notice_id}">发布</button>
+                                        </if>
+                                        </td>
+                                        <td>{$item.add_time}</td>
+                                        <td><a class="btn btn-sm btn-primary notice_edit" href="###" notice_id="{$item.notice_id}"><i class="fa fa-edit fa-lg"></i> 编辑</a> <a class="btn btn-sm btn-danger notice_del" href="###" notice_id="{$item.notice_id}"><i class="fa fa-trash-o fa-lg"></i> 删除</a></td>
+                                    </tr>
+                                </volist>
+                                </tbody>
+                            </table>

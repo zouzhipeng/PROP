@@ -1,0 +1,2206 @@
+[ 2015-09-06T10:31:10+08:00 ] 127.0.0.1 /Prop/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\NoticeController.class.php 第 8 行.
+
+[ 2015-09-06T10:31:11+08:00 ] 127.0.0.1 /Prop/Login/Apilogin.html?backurl=http://prop.zzp.cn/Prop/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T10:31:39+08:00 ] 127.0.0.1 /Prop/Login/Apilogin.html?backurl=http://prop.zzp.cn/Prop/Notice?backurl=http://prop.zzp.cn/Prop/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T10:31:40+08:00 ] 127.0.0.1 /Prop/Login/Apilogin?token=14afCAkDAFFWCAVTVlFUA1RRXAMEBFcKAgZRUQAICgFXVAEJDgQIUg&backurl=http://prop.zzp.cn/Prop/Notice?backurl=http://prop.zzp.cn/Prop/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T10:31:43+08:00 ] 127.0.0.1 /Prop/Notice?backurl=http://prop.zzp.cn/Prop/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\NoticeController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0170s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\NoticeController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_notice` [ RunTime:0.0240s ]
+SQL: SELECT `notice_id`,`notice_title`,`add_time`,`is_top` FROM `prop_notice` WHERE `project_id` = 36 ORDER BY is_top desc,notice_id desc  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\NoticeController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0130s ]
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T11:45:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+
+[ 2015-09-06T11:45:59+08:00 ] 127.0.0.1 /Prop/Login/Apilogin.html?backurl=http://prop.zzp.cn/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T11:46:18+08:00 ] 127.0.0.1 /Prop/Login/Apilogin.html?backurl=http://prop.zzp.cn/?backurl=http://prop.zzp.cn/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-06T11:46:19+08:00 ] 127.0.0.1 /Prop/Login/Apilogin?token=3dadAwkGCQJVBQIECFwGB1VTAVEMAAVbAwABAAYBCwIFBg4CDgEBAQ&backurl=http://prop.zzp.cn/?backurl=http://prop.zzp.cn/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-09-06T11:46:21+08:00 ] 127.0.0.1 /?backurl=http://prop.zzp.cn/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0030s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 24 行.
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 28 行.
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T12:07:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0030s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 24 行.
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 28 行.
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T12:07:53+08:00 ] 127.0.0.1 /Prop/Carpool/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T12:07:56+08:00 ] 127.0.0.1 /Prop/Carpool/carpool_list/?last_id=0&filter_type=0&filter_time=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `prop_carpool` WHERE `carpool_state` = 1 AND `project_id` = 36 ORDER BY carpool_id desc LIMIT 20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T12:07:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 24 行.
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 28 行.
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T12:08:00+08:00 ] 127.0.0.1 /Prop/Server/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\ServerController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T12:08:04+08:00 ] 127.0.0.1 /Prop/Server/serv_post/server_class/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\ServerController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\ServerController.class.php 第 95 行.
+SQL: SHOW COLUMNS FROM `prop_server_class` [ RunTime:0.0030s ]
+SQL: SELECT `server_class_name` FROM `prop_server_class` WHERE ( server_class=1 ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `prop_server_field` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `prop_server_field` WHERE ( server_class=1 ) ORDER BY field_order desc,field_id desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_select_option` WHERE `field` = '1'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T12:08:11+08:00 ] 127.0.0.1 /Prop/Server/serv_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\ServerController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\ServerController.class.php 第 119 行.
+SQL: SHOW COLUMNS FROM `prop_server` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `prop_server` WHERE `project_id` = 36 AND `uin` = 1468  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T14:17:39+08:00 ] 127.0.0.1 /Prop/Server/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\ServerController.class.php 第 8 行.
+
+[ 2015-09-06T14:17:40+08:00 ] 127.0.0.1 /Prop/Login/Apilogin.html?backurl=http://prop.zzp.cn/Prop/Server/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T14:17:42+08:00 ] 127.0.0.1 /Prop/Login/Apilogin?token=3dadAwkGCQJVBQIECFwGB1VTAVEMAAVbAwABAAYBCwIFBg4CDgEBAQ&backurl=http://prop.zzp.cn/Prop/Server/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-06T14:17:44+08:00 ] 127.0.0.1 /Prop/Server/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\ServerController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T14:17:48+08:00 ] 127.0.0.1 /Prop/Server/serv_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\ServerController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\ServerController.class.php 第 127 行.
+SQL: SHOW COLUMNS FROM `prop_server` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_server` WHERE `project_id` = 36 AND `uin` = 1468  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-06T14:55:17+08:00 ] 127.0.0.1 /Prop/Login/Apilogin?token=3dadAwkGCQJVBQIECFwGB1VTAVEMAAVbAwABAAYBCwIFBg4CDgEBAQ&backurl=http://prop.zzp.cn/Prop/Server/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T14:55:19+08:00 ] 127.0.0.1 /Prop/Server/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\ServerController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T14:55:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 24 行.
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 28 行.
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T14:55:28+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\Check.class.php 第 122 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Common\functions.php 第 1292 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Common\functions.php 第 1292 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0840s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T14:55:33+08:00 ] 127.0.0.1 /Prop/Bill/bill_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0030s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `bill_time` BETWEEN 1438329600 AND 1443600000 AND `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' ORDER BY add_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T15:32:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0010s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 24 行.
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 28 行.
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T15:32:41+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\Check.class.php 第 122 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Common\functions.php 第 1292 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Common\functions.php 第 1292 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T15:33:53+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.036003s ]
+
+[ 2015-09-06T15:33:57+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-09-06T15:34:49+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T15:34:55+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T15:35:08+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T15:36:55+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0030s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T15:36:59+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T15:37:35+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T15:37:59+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T15:41:55+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:09:49+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+
+[ 2015-09-06T16:09:50+08:00 ] 127.0.0.1 /Prop/Login/Apilogin.html?backurl=http://prop.zzp.cn/Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:09:52+08:00 ] 127.0.0.1 /Prop/Login/Apilogin?token=3dadAwkGCQJVBQIECFwGB1VTAVEMAAVbAwABAAYBCwIFBg4CDgEBAQ&backurl=http://prop.zzp.cn/Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:09:54+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\Check.class.php 第 122 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0030s ]
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Common\functions.php 第 1292 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Common\functions.php 第 1292 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:09:59+08:00 ] 127.0.0.1 /Prop/Bill/bill_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0030s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `bill_time` BETWEEN 1438329600 AND 1443600000 AND `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' ORDER BY add_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:10:41+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:20:37+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:20:43+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=6%2C5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0030s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=6 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 93 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:20:51+08:00 ] 127.0.0.1 /Prop/Bill/to_pay/?bill_id=6%2C5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=6 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT `boss_uin` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `prop_bill` SET `status`='1',`pay_time`='1441498851' WHERE ( bill_id=6 ) [ RunTime:0.0000s ]
+SQL: UPDATE `prop_bill` SET `status`='1',`pay_time`='1441498851' WHERE ( bill_id=5 ) [ RunTime:0.0000s ]
+
+[ 2015-09-06T16:20:53+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0030s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:20:57+08:00 ] 127.0.0.1 /Prop/Bill/bill_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0030s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `bill_time` BETWEEN 1438329600 AND 1443600000 AND `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' ORDER BY add_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T16:21:45+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0070s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:21:54+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 93 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:21:59+08:00 ] 127.0.0.1 /Prop/Bill/to_pay/?bill_id=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT `boss_uin` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-09-06T16:22:11+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 93 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:22:23+08:00 ] 127.0.0.1 /Prop/Bill/to_pay/?bill_id=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0030s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT `boss_uin` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-09-06T16:23:12+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T16:23:16+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 93 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:23:20+08:00 ] 127.0.0.1 /Prop/Bill/to_pay/?bill_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT `boss_uin` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `prop_bill` SET `status`='1',`pay_time`='1441499000' WHERE ( bill_id=5 ) [ RunTime:0.0000s ]
+
+[ 2015-09-06T16:23:22+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:23:38+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:23:45+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=6%2C5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=6 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 93 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:23:49+08:00 ] 127.0.0.1 /Prop/Bill/to_pay/?bill_id=6%2C5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=6 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT `boss_uin` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `prop_bill` SET `status`='1',`pay_time`='1441499029' WHERE ( bill_id=6 ) [ RunTime:0.0000s ]
+SQL: UPDATE `prop_bill` SET `status`='1',`pay_time`='1441499029' WHERE ( bill_id=5 ) [ RunTime:0.0010s ]
+
+[ 2015-09-06T16:23:51+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T16:24:48+08:00 ] 127.0.0.1 /Prop/Bill/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_now_house() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_id`,`bill_title`,`bill_price`,`bill_time`,`status` FROM `prop_bill` WHERE `project_id` = 36 AND `building` = '1' AND `room_number` = '2402' AND `status` = 0 ORDER BY add_time desc  [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:24:52+08:00 ] 127.0.0.1 /Prop/Bill/confirm_pay/?bill_id=6%2C5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_bill` [ RunTime:0.0020s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=6 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `bill_title`,`bill_price`,`status` FROM `prop_bill` WHERE ( bill_id=5 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\BillController.class.php 第 93 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:27:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 24 行.
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 28 行.
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:43:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+
+[ 2015-09-06T16:43:06+08:00 ] 127.0.0.1 /Prop/Login/Apilogin.html?backurl=http://prop.zzp.cn/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T16:43:08+08:00 ] 127.0.0.1 /Prop/Login/Apilogin?token=3dadAwkGCQJVBQIECFwGB1VTAVEMAAVbAwABAAYBCwIFBg4CDgEBAQ&backurl=http://prop.zzp.cn/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:43:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 24 行.
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 28 行.
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T16:48:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 24 行.
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 28 行.
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: novice C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\7e3d7cfcc9ab9ae4a723f02ca8a8a847.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T17:25:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+
+[ 2015-09-06T17:25:47+08:00 ] 127.0.0.1 /Prop/Login/Apilogin.html?backurl=http://prop.zzp.cn/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T17:25:49+08:00 ] 127.0.0.1 /Prop/Login/Apilogin?token=3dadAwkGCQJVBQIECFwGB1VTAVEMAAVbAwABAAYBCwIFBg4CDgEBAQ&backurl=http://prop.zzp.cn/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-06T17:25:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 24 行.
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 28 行.
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T18:10:44+08:00 ] 127.0.0.1 /Prop/Carpool/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0040s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:10:48+08:00 ] 127.0.0.1 /Prop/Carpool/carpool_list/?last_id=0&filter_type=0&filter_time=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_carpool` WHERE `carpool_state` = 1 AND `project_id` = 36 ORDER BY carpool_id desc LIMIT 20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:10:51+08:00 ] 127.0.0.1 /Prop/Carpool/add_carpool.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:12:20+08:00 ] 127.0.0.1 /Prop/Carpool/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T18:12:23+08:00 ] 127.0.0.1 /Prop/Carpool/carpool_list/?last_id=0&filter_type=0&filter_time=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_carpool` WHERE `carpool_state` = 1 AND `project_id` = 36 ORDER BY carpool_id desc LIMIT 20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:12:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0030s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 24 行.
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 28 行.
+SQL: SELECT `project` FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant Y - assumed 'Y' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant m - assumed 'm' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant d - assumed 'd' C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IndexController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T18:12:33+08:00 ] 127.0.0.1 /Prop/Idle/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IdleController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T18:12:36+08:00 ] 127.0.0.1 /Prop/Idle/idle_list/?last_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IdleController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IdleController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0410s ]
+SQL: SELECT * FROM `prop_idle` WHERE `idle_state` = 1 AND `project_id` = 36 ORDER BY idle_id desc LIMIT 20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:12:36+08:00 ] 127.0.0.1 /Prop/Idle/add_idle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\IdleController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:13:11+08:00 ] 127.0.0.1 /Prop/Carpool/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:13:14+08:00 ] 127.0.0.1 /Prop/Carpool/add_carpool.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:13:14+08:00 ] 127.0.0.1 /Prop/Carpool/carpool_list/?last_id=0&filter_type=0&filter_time=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_carpool` WHERE `carpool_state` = 1 AND `project_id` = 36 ORDER BY carpool_id desc LIMIT 20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:26:32+08:00 ] 127.0.0.1 /Prop/Carpool/add_carpool.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+
+[ 2015-09-06T18:26:33+08:00 ] 127.0.0.1 /Prop/Login/Apilogin.html?backurl=http://prop.zzp.cn/Prop/Carpool/add_carpool.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T18:26:35+08:00 ] 127.0.0.1 /Prop/Login/Apilogin?token=3dadAwkGCQJVBQIECFwGB1VTAVEMAAVbAwABAAYBCwIFBg4CDgEBAQ&backurl=http://prop.zzp.cn/Prop/Carpool/add_carpool.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Prop\084c8eb641af5f2c7eb463ce8c0692de.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:26:37+08:00 ] 127.0.0.1 /Prop/Carpool/add_carpool.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:26:40+08:00 ] 127.0.0.1 /Prop/Carpool/add_carpool.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:26:42+08:00 ] 127.0.0.1 /Prop/Carpool/add_carpool.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:27:03+08:00 ] 127.0.0.1 /Prop/Carpool/add_carpool.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 72 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: INSERT INTO `prop_carpool` (`carpool_img`,`carpool_title`,`carpool_start`,`carpool_end`,`carpool_route`,`carpool_gotime`,`carpool_type`,`carpool_remark`,`add_time`,`project_id`,`uin`) VALUES ('','鼎折覆餗','合法的合法的','地上回复','上的辐射','1441506360','1','','1441506422','36','1468') [ RunTime:0.0000s ]
+
+[ 2015-09-06T18:27:06+08:00 ] 127.0.0.1 /Prop/Carpool/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:27:09+08:00 ] 127.0.0.1 /Prop/Carpool/carpool_list/?last_id=0&filter_type=0&filter_time=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE `carpool_state` = 1 AND `project_id` = 36 ORDER BY carpool_id desc LIMIT 20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T18:27:35+08:00 ] 127.0.0.1 /Prop/Carpool/my_carpool/?last_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Prop\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 8 行.
+NOTIC: [2048] Non-static method Prop\Controller\Check::get_project_id() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Prop\Controller\CarpoolController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE `project_id` = 36 AND `uin` = 1468 ORDER BY carpool_id desc LIMIT 20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

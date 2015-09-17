@@ -1,0 +1,21 @@
+			<volist name="bill_list" id="item">
+            <div class="padding border-bottom clearfix pay_list">
+                <div class="x6 clearfix">
+                    <div class="float-left">
+                        <input type="hidden" name="bill_price" value="{$item.bill_price}"/>
+                    </div>
+                    <div style="margin-left:18px;">
+                        <div>{$item.bill_title}</div>
+                        <div class="text-gray text-small margin-top">{$item.bill_time}</div>
+                    </div>
+                </div>
+                <div class="x3 text-yellow">￥{$item.bill_price}</div>
+                <div class="x3 text-right">
+                	<if condition="$item.status eq 1 ">
+                    <span style="padding: 2px 20px; color:#2c7;" bill_id="{$item.bill_id}">已支付</span>
+                    <else />
+                    <span style="padding: 2px 20px; color:#F00;" bill_id="{$item.bill_id}">未支付</span>
+                    </if>
+                </div>
+            </div>            
+            </volist>

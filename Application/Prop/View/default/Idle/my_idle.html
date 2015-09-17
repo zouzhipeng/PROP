@@ -1,0 +1,44 @@
+            <empty name="list">
+                <ul>
+                    <li>
+                        <div class="margin-top text-center">
+                            <div class="no-content">
+                                <span class="icon-bullhorn text-white"></span>
+                            </div>
+                            <div class="margin-top">
+                            	<if condition="$idle_type eq 0">
+                                您还没有发布的闲置！
+                                <else />
+                                你还没有想买的闲置!
+                                </if>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </empty>
+            <volist name="list" id="item">
+            <div class="padding clearfix border-bottom">
+                <a href="{:U('idle_info',array('idle_id'=>$item['idle_id']))}" class="li-item x12" idle_id="{$item.idle_id}">
+                    <div class="img">
+                    	<notempty name="item.idle_img.0"><img src="{$item.idle_img.0}?imageView2/0/w/100/h/75" alt="" class="" width="100" /></notempty>
+                    </div>
+                    <div class="intro padding-left">
+                        <h4 class="margin-top">{$item.idle_name}</h4>
+                        <div class="margin-top text-gray">￥{$item.idle_present_price}</div>
+                    </div>
+                    <div class="img text-gray datetime">
+                        {$item.add_time}<br />
+                        <if condition="$item.idle_state eq 0">
+                        	<span class="text-red">未审核</span>
+                        <elseif condition="$item.idle_state eq 1"/>
+                        	<span class="text-diy">已审核</span>
+                        <elseif condition="$item.idle_state eq 2"/>
+                        	<span class="text-blue">已完成</span>
+                        <elseif condition="$item.idle_state eq 3"/>
+                        	<span class="text-red">已取消</span>
+                        </if>
+                    </div>
+                </a>
+            </div>
+            </volist>
+            

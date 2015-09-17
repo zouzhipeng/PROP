@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>{$info.idle_name}</title>
+    <link rel="stylesheet" href="__PUBLIC__/Prop/pintuer.css"/>
+    <link rel="stylesheet" href="__PUBLIC__/Prop/wuye.css"/>
+    <script src="__PUBLIC__/Prop/js/jquery.min.js"></script>
+    <script src="__PUBLIC__/Prop/js/TouchSlide.1.1.js"></script>
+    <script src="__PUBLIC__/Prop/js/pintuer.js"></script>
+</head>
+<body class="bg">
+<header class="clearfix padding bg-white border-bottom">
+    <div class="x4">
+        <a href="{:U('Prop/Idle/index')}"><span class="icon-angle-left text-large text-diy"></span></a>
+    </div>
+    <h4 class="x4 height text-center">
+        我的闲置
+    </h4>
+</header>
+<section class="margin-top" id="idle_info">
+    <div class="form-group text-gray ">
+        <notempty name="info.idle_img_list">
+        <div id="focus" class="focus">
+            <div class="hd">
+                <ul></ul>
+            </div>
+            <div class="bd bd2">
+                <ul>
+                    <volist name="info.idle_img_list" id="item">
+                    <li><img _src="{$item}?imageView2/5/w/300/h/200" src="__PUBLIC__/Prop/images/blank.png" /></a></li>
+                    </volist>
+                </ul>
+            </div>
+        </div>
+        <script type="text/javascript">
+            TouchSlide({
+                slideCell:"#focus",
+                titCell:".hd ul", //开启自动分页 autoPage:true ，此时设置 titCell 为导航元素包裹层
+                mainCell:".bd ul",
+                effect:"left",
+                autoPlay:true,//自动播放
+                autoPage:true, //自动分页
+                switchLoad:"_src" //切换加载，真实图片路径为"_src"
+            });
+        </script>
+        </notempty>
+    </div>
+    <div class="form-group select-group padding-small bg-white  border-bottom border-top margin-top clear">
+        <div class="label float-left">
+            <label for="idle_name"> 物品名称</label>
+        </div>
+        <div class="field">
+            {$info.idle_name}
+        </div>
+    </div>
+
+    <div class="form-group select-group padding-small bg-white border-top margin-top clear">
+        <div class="label float-left">
+            <label for="idle_original_price"> 原价</label>
+        </div>
+        <div class="field">
+            ￥{$info.idle_original_price} 元
+        </div>
+    </div>
+    <div class="form-group select-group padding-small bg-white  border-bottom border-top clear">
+        <div class="label float-left">
+            <label for="idle_present_price"> 现价</label>
+        </div>
+        <div class="field">
+            ￥{$info.idle_present_price} 元
+        </div>
+    </div>
+
+    <div class="form-group select-group padding-small bg-white border-bottom border-top margin-top clear">
+        <div class="label float-left">
+            <label for="idle_description"> 描述</label>
+        </div>
+        <div class="field">
+            {$info.idle_description}
+        </div>
+    </div>
+    
+    <div class="margin-top padding-small-left padding-small-right clearfix form-button">
+        <button type="button" class="button x12 bg-diy" id="return">返回</button>
+    </div>
+</section>
+<script src="__PUBLIC__/Admin/js/layer/layer.js"></script>
+<script>
+$(function(){
+	$("#return").click(function(e) {
+        window.location.href="{:U('Prop/Idle/index')}";
+    });
+});
+
+</script>
+
+</body>
+</html>

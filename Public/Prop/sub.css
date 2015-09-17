@@ -1,0 +1,116 @@
+body{
+    max-width: 720px;
+    margin:0 auto;
+    background: #f1f1f1;
+}
+.focus{ width:100%; margin:0 auto; position:relative; overflow:hidden;   }
+.focus .hd{ width:100%; height:11px;  position:absolute; z-index:1; bottom:5px; text-align:center;  }
+.focus .hd ul{ display:inline-block; height:5px; padding:3px 5px; background-color:rgba(255,255,255,0.7);
+    -webkit-border-radius:5px; -moz-border-radius:5px; border-radius:5px; font-size:0; vertical-align:top;
+}
+.focus .hd ul li{ display:inline-block; width:5px; height:5px; -webkit-border-radius:5px; -moz-border-radius:5px; border-radius:5px; background:#8C8C8C; margin:0 5px;  vertical-align:top; overflow:hidden;   }
+.focus .hd ul .on{ background:#FE6C9C;  }
+
+.focus .bd{ position:relative; z-index:0; }
+.focus .bd li img{ width:100%;  height:140px; background:url(images/loading.gif) center center no-repeat;  }
+.focus .bd li a{ -webkit-tap-highlight-color:rgba(0, 0, 0, 0);}
+
+.house-font nav .icon{
+    width:48px;
+    height:48px;
+    margin:0 auto;
+    border-radius: 50%;
+    background-image:url("images/btn-icon.png");
+    background-repeat: no-repeat;
+    background-size: auto 30px;
+}
+.house-font nav a:nth-child(1) .icon{
+    background-color:#00c5ed ;
+    background-position: 9px center;
+}
+.house-font nav a:nth-child(2) .icon{
+    background-color:#ff694a ;
+    background-position: -42px center;
+}
+.house-font nav a:nth-child(3) .icon{
+    background-color:#168ee2 ;
+    background-position: -88px center;
+}
+.house-font nav a:nth-child(4) .icon{
+    background-color:#96a7bb ;
+    background-position: -134px center;
+}
+.house-font .button-group{
+    width:100%
+}
+.house-font .button-group>button{
+    border:none;
+    width:100%;
+    padding:6px;
+}
+.house-font .button-group .drop-menu{
+    width:400%;
+}
+.house-font .button-group>button:hover{
+    background: #fff;
+}
+.li-item {
+    display: -webkit-box;
+}
+.li-item .img{
+    display: block;
+    vertical-align: middle;
+    text-align: center;
+}
+.li-item .intro {
+    -webkit-box-flex: 1;
+}
+.li-item .intro .adress{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    word-break: break-all;
+    width: 100%;
+}
+
+
+.house-details header .a-btn{
+    width:30px;
+    height:30px;
+    display:block;
+    text-align: center;
+    line-height: 30px;
+    color:#fff;
+}
+.house-details header .return{
+    position: absolute;
+    top:10px;
+    left:10px;
+}
+.house-details header .collect{
+    position: absolute;
+    top:10px;
+    right:10px;
+}
+.house-details header .share{
+    position: absolute;
+    top:48px;
+    right:10px;
+}
+.house-details header .bottom-des{
+    position: absolute;
+    bottom:0;
+    width:100%;
+    height:34px;
+    line-height: 34px;
+    padding:0 10px;
+}
+.house-details .buildings-info{
+    margin-right:40px;
+}
+.house-details .call{
+    position: absolute;
+    right:0;
+    top:50%;
+    margin-top:-1em;
+}

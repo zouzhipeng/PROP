@@ -1,0 +1,17 @@
+            <volist name="list" id="item">
+            <div class="padding clearfix border-bottom">
+                <a href="{:U('idle_info',array('idle_id'=>$item['idle_id']))}" class="li-item x12" idle_id="{$item.idle_id}">
+                    <div class="img">
+                    	<notempty name="item.idle_img.0"><img src="{$item.idle_img.0}?imageView2/0/w/100/h/75" alt="" class="" width="100" /></notempty>
+                    </div>
+                    <div class="intro padding-left">
+                        <h4 class="margin-top">{$item.idle_name}</h4>
+                        <div class="margin-top text-gray">￥{$item.idle_present_price}</div>
+                    </div>
+                    <div class="img text-gray datetime">
+                        {$item.add_time}
+                    </div>
+                </a>
+            </div>
+            </volist>
+            

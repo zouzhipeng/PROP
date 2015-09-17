@@ -1,0 +1,311 @@
+[ 2015-08-24T09:47:58+08:00 ] 127.0.0.1 /Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ProjectController.class.php 第 7 行.
+
+[ 2015-08-24T09:47:59+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T09:51:21+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-24T10:22:23+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-24T11:42:09+08:00 ] 127.0.0.1 /Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ProjectController.class.php 第 7 行.
+
+[ 2015-08-24T11:42:10+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-24T11:42:12+08:00 ] 127.0.0.1 /Admin/Login/index?token=e00bUlNWBAYBUQMHBVFTUFZXBAcGVg5SCVwKV1YHAFVUB15TVFEMBQ&backurl=http://prop.zzp.cn/Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T11:42:13+08:00 ] 127.0.0.1 /Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ProjectController.class.php 第 7 行.
+
+[ 2015-08-24T11:42:21+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-24T11:42:22+08:00 ] 127.0.0.1 /Admin/Login/index?token=c817VgAFVlRSBgcFUlBWAQANUgZWBVoCAwBSVAxXAg4BA15XBwJeVw&backurl=http://prop.zzp.cn/Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-24T11:42:24+08:00 ] 127.0.0.1 /Admin/Project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ProjectController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_menu` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_menu`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=33 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-24T11:42:30+08:00 ] 127.0.0.1 /Admin/Project/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ProjectController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_menu` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_menu`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_project` WHERE ( h_id=36 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-24T11:42:34+08:00 ] 127.0.0.1 /Admin/Project/update_menu/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ProjectController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_menu` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0030s ]
+NOTIC: [2] Illegal offset type in isset or empty C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Library\Think\Model.class.php 第 445 行.
+SQL: UPDATE `prop_project` SET `project_menu`='a:7:{i:4;a:3:{s:9:\"menu_name\";s:6:\"快递\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:10:\"icon-truck\";}i:3;a:3:{s:9:\"menu_name\";s:6:\"账单\";s:8:\"menu_url\";s:21:\"/Prop/Bill/index.html\";s:8:\"menu_ico\";s:10:\"icon-money\";}i:8;a:3:{s:9:\"menu_name\";s:6:\"黄页\";s:8:\"menu_url\";s:23:\"/Prop/Yellow/index.html\";s:8:\"menu_ico\";s:16:\"icon-file-text-o\";}i:1;a:3:{s:9:\"menu_name\";s:6:\"资讯\";s:8:\"menu_url\";s:23:\"/Prop/Notice/index.html\";s:8:\"menu_ico\";s:13:\"icon-bullhorn\";}i:7;a:3:{s:9:\"menu_name\";s:6:\"拼车\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:9:\"icon-taxi\";}i:2;a:3:{s:9:\"menu_name\";s:6:\"服务\";s:8:\"menu_url\";s:23:\"/Prop/Server/index.html\";s:8:\"menu_ico\";s:9:\"icon-cogs\";}i:5;a:3:{s:9:\"menu_name\";s:6:\"活动\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:18:\"icon-paper-plane-o\";}}' WHERE `h_id` = 36 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-24T11:42:34+08:00 ] 127.0.0.1 /Admin/Project/update_menu/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ProjectController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_menu` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 6 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+NOTIC: [2] Illegal offset type in isset or empty C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Library\Think\Model.class.php 第 445 行.
+SQL: UPDATE `prop_project` SET `project_menu`='a:8:{i:4;a:3:{s:9:\"menu_name\";s:6:\"快递\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:10:\"icon-truck\";}i:6;a:3:{s:9:\"menu_name\";s:6:\"闲置\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:12:\"icon-archive\";}i:3;a:3:{s:9:\"menu_name\";s:6:\"账单\";s:8:\"menu_url\";s:21:\"/Prop/Bill/index.html\";s:8:\"menu_ico\";s:10:\"icon-money\";}i:8;a:3:{s:9:\"menu_name\";s:6:\"黄页\";s:8:\"menu_url\";s:23:\"/Prop/Yellow/index.html\";s:8:\"menu_ico\";s:16:\"icon-file-text-o\";}i:1;a:3:{s:9:\"menu_name\";s:6:\"资讯\";s:8:\"menu_url\";s:23:\"/Prop/Notice/index.html\";s:8:\"menu_ico\";s:13:\"icon-bullhorn\";}i:7;a:3:{s:9:\"menu_name\";s:6:\"拼车\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:9:\"icon-taxi\";}i:2;a:3:{s:9:\"menu_name\";s:6:\"服务\";s:8:\"menu_url\";s:23:\"/Prop/Server/index.html\";s:8:\"menu_ico\";s:9:\"icon-cogs\";}i:5;a:3:{s:9:\"menu_name\";s:6:\"活动\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:18:\"icon-paper-plane-o\";}}' WHERE `h_id` = 36 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T11:43:24+08:00 ] 127.0.0.1 /Admin/Project/update_menu/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ProjectController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_menu` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0020s ]
+NOTIC: [2] Illegal offset type in isset or empty C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Library\Think\Model.class.php 第 445 行.
+SQL: UPDATE `prop_project` SET `project_menu`='a:7:{i:4;a:3:{s:9:\"menu_name\";s:6:\"快递\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:10:\"icon-truck\";}i:3;a:3:{s:9:\"menu_name\";s:6:\"账单\";s:8:\"menu_url\";s:21:\"/Prop/Bill/index.html\";s:8:\"menu_ico\";s:10:\"icon-money\";}i:8;a:3:{s:9:\"menu_name\";s:6:\"黄页\";s:8:\"menu_url\";s:23:\"/Prop/Yellow/index.html\";s:8:\"menu_ico\";s:16:\"icon-file-text-o\";}i:1;a:3:{s:9:\"menu_name\";s:6:\"资讯\";s:8:\"menu_url\";s:23:\"/Prop/Notice/index.html\";s:8:\"menu_ico\";s:13:\"icon-bullhorn\";}i:7;a:3:{s:9:\"menu_name\";s:6:\"拼车\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:9:\"icon-taxi\";}i:2;a:3:{s:9:\"menu_name\";s:6:\"服务\";s:8:\"menu_url\";s:23:\"/Prop/Server/index.html\";s:8:\"menu_ico\";s:9:\"icon-cogs\";}i:5;a:3:{s:9:\"menu_name\";s:6:\"活动\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:18:\"icon-paper-plane-o\";}}' WHERE `h_id` = 36 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-24T11:43:25+08:00 ] 127.0.0.1 /Admin/Project/update_menu/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\ProjectController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_menu` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 6 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_menu` WHERE `menu_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project` [ RunTime:0.0030s ]
+NOTIC: [2] Illegal offset type in isset or empty C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Library\Think\Model.class.php 第 445 行.
+SQL: UPDATE `prop_project` SET `project_menu`='a:8:{i:4;a:3:{s:9:\"menu_name\";s:6:\"快递\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:10:\"icon-truck\";}i:6;a:3:{s:9:\"menu_name\";s:6:\"闲置\";s:8:\"menu_url\";s:21:\"/Prop/Idle/index.html\";s:8:\"menu_ico\";s:12:\"icon-archive\";}i:3;a:3:{s:9:\"menu_name\";s:6:\"账单\";s:8:\"menu_url\";s:21:\"/Prop/Bill/index.html\";s:8:\"menu_ico\";s:10:\"icon-money\";}i:8;a:3:{s:9:\"menu_name\";s:6:\"黄页\";s:8:\"menu_url\";s:23:\"/Prop/Yellow/index.html\";s:8:\"menu_ico\";s:16:\"icon-file-text-o\";}i:1;a:3:{s:9:\"menu_name\";s:6:\"资讯\";s:8:\"menu_url\";s:23:\"/Prop/Notice/index.html\";s:8:\"menu_ico\";s:13:\"icon-bullhorn\";}i:7;a:3:{s:9:\"menu_name\";s:6:\"拼车\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:9:\"icon-taxi\";}i:2;a:3:{s:9:\"menu_name\";s:6:\"服务\";s:8:\"menu_url\";s:23:\"/Prop/Server/index.html\";s:8:\"menu_ico\";s:9:\"icon-cogs\";}i:5;a:3:{s:9:\"menu_name\";s:6:\"活动\";s:8:\"menu_url\";s:3:\"###\";s:8:\"menu_ico\";s:18:\"icon-paper-plane-o\";}}' WHERE `h_id` = 36 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

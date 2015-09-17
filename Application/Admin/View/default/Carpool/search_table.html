@@ -1,0 +1,79 @@
+                            <table class="table table-bordered table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th width="60">id</th>
+                                        <th width="100" class="Dropdown" field="carpool_type" value="{$carpool_type}">
+                                            <a href="###"><span>
+                                            <if condition="$carpool_type eq 1">
+                                            我有车
+                                            <elseif condition="$carpool_type eq 2"/>
+                                            我没车
+                                            <else />
+                                            拼车类型
+                                            </if>
+                                            </span><i class="fa fa-fw fa-caret-down"></i>
+                                            <ul>
+                                                <li value="">全部类型</li>
+                                                <li value="1">我有车</li>
+                                                <li value="2">我没车</li>
+                                            </ul>
+                                            </a>
+                                        </th>
+                                        <th>标题</th>
+                                        <th>路线</th>
+                                        <th width="160">出发时间</th>
+                                        <th width="120">业主</th>
+                                        <th width="120" class="Dropdown" field="carpool_state" value="{$carpool_state}">
+                                            <a href="###"><span>
+                                            <if condition="$carpool_state eq 0">
+                                            未审核
+                                            <elseif condition="$carpool_state eq 1"/>
+                                            已审核
+                                            <elseif condition="$carpool_state eq 2"/>
+                                            已完成
+                                            <elseif condition="$carpool_state eq 3"/>
+                                            已取消
+                                            <else />
+                                            状态
+                                            </if>
+                                            </span><i class="fa fa-fw fa-caret-down"></i>
+                                            <ul>
+                                                <li value="">全部</li>
+                                                <li value="0">未审核</li>
+                                                <li value="1">已审核</li>
+                                                <li value="2">已完成</li>
+                                                <li value="3">已取消</li>
+                                            </ul>
+                                            </a></th>
+                                        <th width="120">添加时间</th>
+                                        <th width="160">操作</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                <volist name="list" id="item">
+                                    <tr>
+                                        <td align="center">{$item.carpool_id}</td>
+                                        <td><if condition="$item.carpool_type eq 1">
+                                        <span class="text-info">我有车</span>
+                                        <elseif condition="$item.carpool_type eq 2"/>
+                                        <span class="text-warning">我无车</span>
+                                        </if></td>
+                                        <td>{$item.carpool_title}</td>
+                                        <td>{$item.carpool_start}-{$item.carpool_route}-{$item.carpool_end}</td>
+                                        <td>{$item.carpool_gotime}</td>
+                                        <td>{$item.add_time}</td>
+                                        <td><if condition="$item.carpool_state eq 0">
+                                        <button type="button" class="btn btn-sm btn-warning carpool_verify" carpool_id="{$item.carpool_id}">审核</button>
+                                        <elseif condition="$item.carpool_state eq 1"/>
+                                        <span class="text-success">已审核</span>
+                                        <elseif condition="$item.carpool_state eq 2"/>
+                                        <span class="text-info">已完成</span>
+                                        <elseif condition="$item.carpool_state eq 3"/>
+                                        <span class="text-danger">已取消</span>
+                                        </if></td>
+                                        <td>{$item.add_time}</td>
+                                        <td><a class="btn btn-sm btn-primary carpool_edit" href="###" carpool_id="{$item.carpool_id}"><i class="fa fa-edit fa-lg"></i> 编辑</a> <a class="btn btn-sm btn-danger carpool_del" href="###" carpool_id="{$item.carpool_id}"><i class="fa fa-trash-o fa-lg"></i> 删除</a></td>
+                                    </tr>
+                                </volist>
+                                </tbody>
+                            </table>

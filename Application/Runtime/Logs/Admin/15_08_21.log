@@ -1,0 +1,12 @@
+[ 2015-08-21T14:50:23+08:00 ] 127.0.0.1 /Admin/MenuTree?callback=jQuery21406316724487114698_1440139820825&_=1440139820826
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'property_user'@'localhost' (using password: YES) C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Library\Think\Session\Driver\Db.class.php 第 95 行.
+NOTIC: [2] mysql_select_db() expects parameter 2 to be resource, boolean given C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Library\Think\Session\Driver\Db.class.php 第 98 行.
+NOTIC: [8] Undefined offset: 1 C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Library\Think\Session\Driver\Db.class.php 第 124 行.
+NOTIC: [2] mysql_query() expects parameter 2 to be resource, null given C:\Program Files\phpStudy\WWW_prop\ThinkPHP\Library\Think\Session\Driver\Db.class.php 第 125 行.
+

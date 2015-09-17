@@ -1,0 +1,2733 @@
+[ 2015-08-27T11:03:19+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] require(./Application/Admin/Language/zh_cn/Carpool.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 7 行.
+
+[ 2015-08-27T11:10:12+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] require(./Application/Admin/Language/zh_cn/Carpool.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 7 行.
+
+[ 2015-08-27T11:10:31+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+
+[ 2015-08-27T11:10:32+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:10:34+08:00 ] 127.0.0.1 /Admin/Login/index?token=328cCAQCAVRUBgADUwdVAgIPCwBQUlMMAwEFBFBVBFYDBFsJAwUJVw&backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:10:36+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0010s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:10:38+08:00 ] 127.0.0.1 /Admin/Idle/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\IdleController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_idle` [ RunTime:0.0030s ]
+SQL: SELECT `idle_id`,`idle_type`,`idle_name`,`idle_original_price`,`idle_present_price`,`idle_state`,`add_time`,`uin` FROM `prop_idle` WHERE `project_id` = 33 ORDER BY idle_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_idle` WHERE `project_id` = 33 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:20:56+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0010s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T11:20:58+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+ERR: 非法操作:search
+
+[ 2015-08-27T11:43:37+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+
+[ 2015-08-27T11:43:38+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:43:39+08:00 ] 127.0.0.1 /Admin/Login/index?token=328cCAQCAVRUBgADUwdVAgIPCwBQUlMMAwEFBFBVBFYDBFsJAwUJVw&backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T11:43:41+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0010s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:43:44+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 33 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 33 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:43:49+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:43:52+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 26 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 26 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:44:13+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:44:15+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-27T11:44:30+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T11:44:33+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:44:54+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:44:57+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:45:05+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+ERR: 非法操作:carpool_edit
+
+[ 2015-08-27T11:45:09+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T11:45:12+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T12:11:22+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+
+[ 2015-08-27T12:11:23+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-27T12:11:25+08:00 ] 127.0.0.1 /Admin/Login/index?token=328cCAQCAVRUBgADUwdVAgIPCwBQUlMMAwEFBFBVBFYDBFsJAwUJVw&backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T12:11:27+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0150s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T12:11:32+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 33 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 33 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T12:11:35+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T12:11:38+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0070s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T12:11:41+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 4 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 8 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 12 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 16 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 20 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 25 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 28 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 34 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 37 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 40 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 43 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 48 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T12:11:50+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 4 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 8 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 12 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 16 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 20 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 25 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 28 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 34 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 37 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 40 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 43 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 48 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T14:03:21+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+
+[ 2015-08-27T14:03:22+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T14:03:23+08:00 ] 127.0.0.1 /Admin/Login/index?token=328cCAQCAVRUBgADUwdVAgIPCwBQUlMMAwEFBFBVBFYDBFsJAwUJVw&backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T14:03:26+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T14:03:28+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 33 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 33 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T14:03:31+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T14:03:33+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T14:05:32+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 4 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 8 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 12 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 16 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 21 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 24 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 30 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 33 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 36 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 39 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 44 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T14:05:44+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 4 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 8 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 12 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 16 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 21 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 24 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 30 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 33 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 36 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 39 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 44 行.
+NOTIC: [8] Undefined variable: info C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\ffcf2679d550305910f4e8c776513bf3.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:00:12+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+
+[ 2015-08-27T15:00:13+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:00:14+08:00 ] 127.0.0.1 /Admin/Login/index?token=328cCAQCAVRUBgADUwdVAgIPCwBQUlMMAwEFBFBVBFYDBFsJAwUJVw&backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:00:16+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:00:19+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 33 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 33 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:00:22+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:00:25+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:00:29+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:00:41+08:00 ] 127.0.0.1 /Admin/Carpool_/carpool_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Carpool_
+
+[ 2015-08-27T15:01:07+08:00 ] 127.0.0.1 /Admin/Carpool_/carpool_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Carpool_
+
+[ 2015-08-27T15:01:27+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:01:30+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:03:28+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:03:32+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_carpool` WHERE `carpool_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: carpool_name C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 141 行.
+NOTIC: [8] Undefined variable: carpool_original_price C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: carpool_present_price C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 144 行.
+NOTIC: [8] Undefined variable: carpool_description C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 146 行.
+SQL: UPDATE `prop_carpool` SET `carpool_type`='1',`carpool_state`='0',`add_time`='1440630212' WHERE `carpool_id` = 2 AND `carpool_state` <> 2 [ RunTime:0.0010s ]
+
+[ 2015-08-27T15:03:34+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:03:37+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:03:50+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_carpool` WHERE `carpool_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: carpool_name C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 141 行.
+NOTIC: [8] Undefined variable: carpool_original_price C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: carpool_present_price C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 144 行.
+NOTIC: [8] Undefined variable: carpool_description C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 146 行.
+SQL: UPDATE `prop_carpool` SET `carpool_type`='1',`carpool_state`='0',`add_time`='1440630230' WHERE `carpool_id` = 2 AND `carpool_state` <> 2 [ RunTime:0.0010s ]
+
+[ 2015-08-27T15:03:52+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:03:55+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:04:08+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_carpool` WHERE `carpool_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: carpool_name C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 141 行.
+NOTIC: [8] Undefined variable: carpool_original_price C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: carpool_present_price C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 144 行.
+NOTIC: [8] Undefined variable: carpool_description C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 146 行.
+SQL: UPDATE `prop_carpool` SET `carpool_type`='1',`carpool_state`='0',`add_time`='1440630248' WHERE `carpool_id` = 2 AND `carpool_state` <> 2 [ RunTime:0.0010s ]
+
+[ 2015-08-27T15:04:10+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:04:18+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:08:03+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:08:16+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `project_id` FROM `prop_carpool` WHERE `carpool_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `prop_carpool` SET `carpool_title`='佛挡杀佛1',`carpool_route`='施工规范的2',`carpool_gotime`='1440630496',`carpool_type`='1',`carpool_state`='0',`carpool_remark`='过分的话个个3',`add_time`='1440630496' WHERE `carpool_id` = 2 AND `carpool_state` <> 2 [ RunTime:0.0000s ]
+
+[ 2015-08-27T15:08:18+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:08:22+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:08:27+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_carpool` WHERE `carpool_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `prop_carpool` SET `carpool_title`='佛挡杀佛1',`carpool_route`='施工规范的2',`carpool_gotime`='1440630507',`carpool_type`='1',`carpool_state`='0',`carpool_remark`='过分的话个个3',`add_time`='1440630507' WHERE `carpool_id` = 2 AND `carpool_state` <> 2 [ RunTime:0.0000s ]
+
+[ 2015-08-27T15:08:30+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:08:33+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:23:01+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:23:11+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_carpool` WHERE `carpool_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `prop_carpool` SET `carpool_title`='佛挡杀佛1',`carpool_route`='施工规范的2',`carpool_gotime`='1440631391',`carpool_type`='2',`carpool_state`='0',`carpool_remark`='过分的话个个3',`add_time`='1440631391' WHERE `carpool_id` = 2 AND `carpool_state` <> 2 [ RunTime:0.0020s ]
+
+[ 2015-08-27T15:23:13+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:23:16+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:23:20+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_verify/?project_id=36&carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: UPDATE `prop_carpool` SET `carpool_state`='1' WHERE `project_id` = 36 AND `carpool_id` = 2 AND `carpool_state` = 0 [ RunTime:0.0000s ]
+
+[ 2015-08-27T15:23:28+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:23:31+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:23:47+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_verify/?project_id=36&carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: UPDATE `prop_carpool` SET `carpool_state`='1' WHERE `project_id` = 36 AND `carpool_id` = 2 AND `carpool_state` = 0 [ RunTime:0.0010s ]
+
+[ 2015-08-27T15:23:55+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:24:15+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+
+[ 2015-08-27T15:24:16+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:24:43+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+
+[ 2015-08-27T15:24:44+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:24:45+08:00 ] 127.0.0.1 /Admin/Login/index?token=328cCAQCAVRUBgADUwdVAgIPCwBQUlMMAwEFBFBVBFYDBFsJAwUJVw&backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:24:48+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:24:50+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 33 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 33 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:24:57+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:25:00+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:32:22+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:32:24+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:32:28+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_verify/?project_id=36&carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: UPDATE `prop_carpool` SET `carpool_state`='1' WHERE `project_id` = 36 AND `carpool_id` = 2 AND `carpool_state` = 0 [ RunTime:0.0010s ]
+
+[ 2015-08-27T15:32:36+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0070s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:32:43+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `project_id` FROM `prop_carpool` WHERE `carpool_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `prop_carpool` SET `carpool_title`='佛挡杀佛1',`carpool_route`='施工规范的2',`carpool_gotime`='1440631963',`carpool_type`='2',`carpool_state`='0',`carpool_remark`='过分的话个个3',`add_time`='1440631963' WHERE `carpool_id` = 2 AND `carpool_state` <> 2 [ RunTime:0.0000s ]
+
+[ 2015-08-27T15:32:45+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:32:48+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_edit/?carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_carpool` WHERE ( carpool_id=2 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:32:53+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:32:56+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:33:12+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:33:15+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0040s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:33:19+08:00 ] 127.0.0.1 /Admin/Carpool/carpool_verify/?project_id=36&carpool_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_project_manager` WHERE `uin` = 1468 AND `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: UPDATE `prop_carpool` SET `carpool_state`='1' WHERE `project_id` = 36 AND `carpool_id` = 2 AND `carpool_state` = 0 [ RunTime:0.0000s ]
+
+[ 2015-08-27T15:33:32+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:33:35+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+NOTIC: [8] Undefined index: carpool_state C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\d58208623678b19b3f4b6d19044e5aec.php 第 25 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:34:00+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:34:03+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`carpool_state`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T15:39:24+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T15:39:27+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`carpool_state`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T17:29:45+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+
+[ 2015-08-27T17:29:47+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T17:29:48+08:00 ] 127.0.0.1 /Admin/Login/index?token=328cCAQCAVRUBgADUwdVAgIPCwBQUlMMAwEFBFBVBFYDBFsJAwUJVw&backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T17:29:50+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T17:29:53+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0030s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`carpool_state`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 33 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 33 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T18:21:50+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+
+[ 2015-08-27T18:21:51+08:00 ] 127.0.0.1 /Admin/Login/index.html?backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: webname C:\Program Files\phpStudy\WWW_prop\Application\Runtime\Cache\Admin\2413a4ed422c62341e4ae44a15949ed4.php 第 10 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T18:21:53+08:00 ] 127.0.0.1 /Admin/Login/index?token=328cCAQCAVRUBgADUwdVAgIPCwBQUlMMAwEFBFBVBFYDBFsJAwUJVw&backurl=http://prop.zzp.cn/Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T18:21:55+08:00 ] 127.0.0.1 /Admin/Carpool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT `project_id` FROM `prop_project_manager` WHERE ( uin=1468 )  [ RunTime:0.0000s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T18:21:58+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`carpool_state`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 33 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 33 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T18:22:00+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T18:22:04+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`carpool_state`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T18:22:18+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0020s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T18:22:21+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`carpool_state`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T18:26:05+08:00 ] 127.0.0.1 /Admin/Carpool/index/project_id/36.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_project_manager` [ RunTime:0.0030s ]
+SQL: SELECT p.h_id,p.project FROM prop_project_manager m INNER JOIN prop_project p ON m.project_id = p.h_id  WHERE m.uin = '1468'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-27T18:26:08+08:00 ] 127.0.0.1 /Admin/Carpool/search/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Non-static method Admin\Controller\Check::check() should not be called statically, assuming $this from incompatible context C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `prop_carpool` [ RunTime:0.0020s ]
+SQL: SELECT `carpool_id`,`carpool_title`,`carpool_route`,`carpool_gotime`,`carpool_type`,`carpool_state`,`add_time`,`uin` FROM `prop_carpool` WHERE `project_id` = 36 ORDER BY carpool_id desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `prop_carpool` WHERE `project_id` = 36 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `prop_select_option` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: carpool_type_text C:\Program Files\phpStudy\WWW_prop\Application\Admin\Controller\CarpoolController.class.php 第 56 行.
+SQL: SELECT * FROM `prop_select_option` WHERE ( field=0 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

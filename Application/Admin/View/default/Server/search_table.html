@@ -1,0 +1,84 @@
+                            <table class="table table-bordered table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th width="60">id</th>
+                                        <th width="120" class="Dropdown" field="server_class" value="{$server_class}">
+                                            <a href="###"><span>
+                                            <if condition="$status eq 1">
+                                            投诉建议
+                                            <elseif condition="$status eq 2"/>
+                                            维修报障
+                                            <elseif condition="$status eq 3"/>
+                                            施工申请
+                                            <else />
+                                            分类
+                                            </if>
+                                            </span><i class="fa fa-fw fa-caret-down"></i>
+                                            <ul>
+                                                <li value="">全部</li>
+                                                <li value="1">投诉建议</li>
+                                                <li value="2">维修报障</li>
+                                                <li value="3">施工申请</li>
+                                            </ul>
+                                            </a>
+                                        </th>
+                                        <th>标题</th>
+                                        <th width="120">业主</th>
+                                        <th width="120">电话</th>
+                                        <th width="100" class="Dropdown" field="server_state" value="{$server_state}">
+                                            <a href="###"><span>
+                                            <if condition="$server_state eq 0">
+                                            未审核
+                                            <elseif condition="$server_state eq 1"/>
+                                            已联系
+                                            <elseif condition="$server_state eq 2"/>
+                                            已分派
+                                            <elseif condition="$server_state eq 3"/>
+                                            已完成
+                                            <else />
+                                            服务状态
+                                            </if>
+                                            </span><i class="fa fa-fw fa-caret-down"></i>
+                                            <ul>
+                                                <li value="">全部</li>
+                                                <li value="0">未审核</li>
+                                                <li value="1">已联系</li>
+                                                <li value="2">已分派</li>
+                                                <li value="3">已完成</li>
+                                            </ul>
+                                            </a>
+                                        </th>
+                                        <th width="120">添加时间</th>
+                                        <th width="160">操作</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                <volist name="list" id="item">
+                                    <tr>
+                                        <td align="center">{$item.server_id}</td>
+                                        <td>{$item.server_class_name}</td>
+                                        <td>{$item.server_title}</td>
+                                        <td>{$uin_list['data'][$item['uin']]['weixin_info']['nickname']}</td>
+                                        <td>{$uin_list['data'][$item['uin']]['phone']}</td>
+                                        <td id="server_state_{$item.server_id}">
+                                        <if condition="$item.server_state eq 0">
+                                            <i class="fa fa-times fa-lg text-danger"></i>未审核
+                                        <elseif condition="$item.server_state eq 1"/>
+                                            <i class="fa fa-phone fa-lg text-warning"></i>已联系
+                                        <elseif condition="$item.server_state eq 2"/>
+                                            <i class="fa fa-user fa-lg text-info"></i>已分派
+                                        <elseif condition="$item.server_state eq 3"/>
+                                            <i class="fa fa-check fa-lg text-success"></i>已完成
+                                        </if>
+                                        </td>
+                                        <td>{$item.add_time}</td>
+                                        <td>
+                                        <if condition="$item.status eq 0">
+                                        <a class="btn btn-sm btn-primary serv_view" href="###" server_id="{$item.server_id}"><i class="fa fa-eye fa-lg"></i> 查看</a> 
+                                        <!--<a class="btn btn-sm btn-danger bill_del" href="###" server_id="{$item.server_id}"><i class="fa fa-trash-o fa-lg"></i> 删除</a>-->
+                                        </if>
+                                        </td>
+                                    </tr>
+                                </volist>
+                                </tbody>
+                            </table>
